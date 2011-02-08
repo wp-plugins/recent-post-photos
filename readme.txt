@@ -16,6 +16,8 @@ Tested up to: 2.9.2
 Recent Photos Plugin provides with a widget to display n numbers of recent post photos from the media library in the sidebar.
 If you find any error, please post them to me at asad@roohware.com
 
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fplatform&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe>
+
 
 == Installation ==
 
