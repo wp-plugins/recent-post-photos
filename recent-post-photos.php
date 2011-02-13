@@ -78,7 +78,8 @@ if ($pageposts):
 					}else{
 					
 						$thumb_nail_m = explode('.',str_replace('"', '',$img_thumb[count($img_thumb)-1]));
-						$extension = $img_path . $thumb_nail_m[0] . "-" . get_option( 'thumbnail_size_w' ) . 'x' . get_option( 'thumbnail_size_h' ) . "." . $thumb_nail_m[1];
+						$thumb_nail_n = explode("-", $thumb_nail_m[0]); 
+						$extension = $img_path . $thumb_nail_n[0] . "-" . get_option( 'thumbnail_size_w' ) . 'x' . get_option( 'thumbnail_size_h' ) . "." . $thumb_nail_m[1];
 					}
 		
 		 ?>
