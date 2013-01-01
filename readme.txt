@@ -1,10 +1,10 @@
 === Recent Photos ===
-Plugin Name: Recent Photos
+Plugin Name: Recent Post Photos
 Plugin URI: http://wordpress.programmerscountry.com/
 Description: Get a photo from the recent posts and displays their thumbnails in the sidebar. the number of thumbnails shown can be adjusted fro the admin.
-Author: Asad Iqbal
-Author URI: http://www.roohware.com
-Contributors: Asad Iqbal
+Author: Saadi Iqbal
+Author URI: http://www.programmerscountry.com
+Contributors: Saadi Iqbal
 Donate link: http://www.Programmerscountry.com
 Version: 0.0.1
 Stable tag: 0.0.1
@@ -14,7 +14,7 @@ Tested up to: 2.9.2
 
 == Description ==
 Recent Photos Plugin provides with a widget to display n numbers of recent post photos from the media library in the sidebar.
-If you find any error, please post them to me at asad@roohware.com
+If you find any error, please post them to me at asad@hiwaas.com
 
 <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fplatform&amp;width=292&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:62px;" allowTransparency="true"></iframe>
 

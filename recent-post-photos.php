@@ -4,7 +4,7 @@ Plugin Name: Recent Posts Photos
 Plugin URI: http://www.ProgrammersCountry.com
 Description: Displays Recent Posts Photos from the media library in the sidebar. If the post does not contain a photo it is not displayed.
 Version: 0.0.1
-Author: Asad Iqbal
+Author: Saadi Iqbal
 Author URI: http://www.ProgrammersCountry.com
 */
 /*  Copyright 2010  Asad Iqbal (email : engr.software@yahoo.com)
