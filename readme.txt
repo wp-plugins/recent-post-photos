@@ -8,7 +8,7 @@ Contributors: Saadi Iqbal
 Donate link: http://www.Programmerscountry.com
 Version: 0.0.1
 Stable tag: 0.0.1
-Tags: photos, widget, sidebar, roohware,  roohware plugins
+Tags: saadi, photos, widget, sidebar, hiwaas,  hiwaas plugins
 Requires at least: 2.9
 Tested up to: 2.9.2
 
